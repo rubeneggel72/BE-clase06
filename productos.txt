@@ -1,0 +1,1 @@
+[{"title":"iPhone 11 64 GB (Product)Red","price":159000,"thumbnail":"a001.jpg","id":1},{"title":"iPhone 11 64 GB (Product)Red","price":159000,"thumbnail":"a001.jpg","id":2},{"title":"iPhone 12 64 GB azul","price":200000,"thumbnail":"a002.jpg","id":3},{"title":"iPhone XR 64 GB negro","price":139000,"thumbnail":"a003.jpg","id":4}]
